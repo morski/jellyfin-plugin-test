@@ -5,7 +5,7 @@
         "description": "Jellyfin Merge Versions plugin is a plugin that automatically groups every repeated movie\n",
         "overview": "Automatically merge repeated movies",
         "owner": "morski",
-        "imageUrl": "https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/resources/MergeVersions/thumb.png",
+        "imageUrl": "https://raw.githubusercontent.com/morski/jellyfin-plugin-test/master/thumb.png",
         "category": "General",
         "versions": [
             {
