@@ -8,6 +8,14 @@
         "imageUrl": "https://raw.githubusercontent.com/morski/jellyfin-plugin-test/master/thumb.png",
         "category": "General",
         "versions": [
+			{
+				"version": "10.9.2.1",
+                "changelog": "asdads",
+                "targetAbi": "10.9.0.0",
+                "sourceUrl": "https://github.com/morski/jellyfin-plugin-mergeversions/releases/download/test0.2/Jellyfin.Plugin.MergeVersions.zip",
+                "checksum": "b359ea70b3f60526463718ddcdddf8ec",
+                "timestamp": "2024-05-20 16:45:00"
+			},
             {
                 "version": "10.9.2.0",
                 "changelog": "Bug fixes",
