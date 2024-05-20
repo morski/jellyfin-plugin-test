@@ -9,12 +9,12 @@
         "category": "General",
         "versions": [
             {
-                "version": "10.9.1.1",
+                "version": "10.9.2.0",
                 "changelog": "Bug fixes",
                 "targetAbi": "10.9.0.0",
-                "sourceUrl": "https://github.com/danieladov/jellyfin-plugin-mergeversions/releases/download/10.9.1.1/Jellyfin-Plugin-MergeVersions.zip",
-                "checksum": "79f745e3e35370754f77df1a303e0344",
-                "timestamp": "2024-05-15 16:45:00"
+                "sourceUrl": "https://github.com/morski/jellyfin-plugin-mergeversions/releases/download/test/Jellyfin.Plugin.MergeVersions.zip",
+                "checksum": "39439b74fcce728e9d44da56dcc239f4",
+                "timestamp": "2024-05-20 16:45:00"
             }
         ]
     }
